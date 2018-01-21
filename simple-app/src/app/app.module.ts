@@ -7,6 +7,7 @@ import { Component1Component } from './components/component1/component1.componen
 import { Component2Component } from './components/component2/component2.component';
 import { Component3Component } from './components/component3/component3.component';
 import { RootComponentComponent } from './components/root-component/root-component.component';
+import { FancyService } from './services/fancy.service';
 
 
 @NgModule({
@@ -20,7 +21,7 @@ import { RootComponentComponent } from './components/root-component/root-compone
   imports: [
     BrowserModule
   ],
-  providers: [],
+  providers: [FancyService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
