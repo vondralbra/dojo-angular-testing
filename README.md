@@ -9,6 +9,7 @@ Kommt noch
 
 ## Links
 
+* [Angular Testing](https://angular.io/guide/testing)
 * [Karma](https://karma-runner.github.io/2.0/index.html)
 * [Karma Thesis](https://github.com/karma-runner/karma/blob/master/thesis.pdf)
 * [Jasemine](https://jasmine.github.io/)
